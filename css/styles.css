@@ -7810,6 +7810,7 @@ textarea.form-control-lg {
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  
 
 }
 
@@ -11398,6 +11399,7 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
+
 }
 header.masthead h1, header.masthead .h1 {
   font-size: 2.25rem;
